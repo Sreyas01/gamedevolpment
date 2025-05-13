@@ -52,5 +52,6 @@
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f6d5128d-977c-4080-91b7-1ddf9ed84262)
+
 Result:
 Thus an image is edited using an image editing software
