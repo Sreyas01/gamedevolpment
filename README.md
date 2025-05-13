@@ -51,4 +51,4 @@
 
 
 ## OUTPUT:
-![Uploading Screenshot 2025-05-13 143711.png…]()
+![image](https://github.com/user-attachments/assets/f6d5128d-977c-4080-91b7-1ddf9ed84262)
